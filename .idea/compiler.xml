@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ajaxDemo" />
+        <module name="autoLoginDemo" />
+        <module name="cookieDemo" />
+        <module name="filterDemo" />
+        <module name="jspDemo" />
+        <module name="listenerDemo" />
+        <module name="loginDemo" />
+        <module name="mailDemo" />
+        <module name="redisDemo" />
+        <module name="sessionDemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ajaxDemo" target="1.7" />
+      <module name="autoLoginDemo" target="7" />
+      <module name="bdSearch" target="1.5" />
+      <module name="cookieDemo" target="1.7" />
+      <module name="filterDemo" target="1.7" />
+      <module name="jspDemo" target="1.7" />
+      <module name="listenerDemo" target="1.7" />
+      <module name="loginDemo" target="7" />
+      <module name="mailDemo" target="1.7" />
+      <module name="mavenDemo" target="1.5" />
+      <module name="redisDemo" target="1.5" />
+      <module name="sessionDemo" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

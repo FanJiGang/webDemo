@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/">
+    <Manager className="org.apache.catalina.session.PersistentManager" maxIdleSwap="1">
+        <Store className="org.apache.catalina.session.FileStore" directory="D:\Develop\Tomcat\apache-tomcat-8.0.53\conf\Session"/>
+    </Manager>
+</Context>

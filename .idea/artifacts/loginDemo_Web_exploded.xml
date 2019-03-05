@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="loginDemo:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/loginDemo_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="loginDemo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="loginDemo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="application" name="c3p0-0.9.1.1" />
+          <element id="library" level="project" name="commons-dbutils-1.6" />
+          <element id="library" level="application" name="mysql-connector-java-5.1.4" />
+          <element id="library" level="project" name="jstl:jstl:1.2" />
+          <element id="library" level="application" name="com.thoughtworks.xstream:xstream:1.4.3" />
+          <element id="library" level="application" name="net.sf.json-lib:json-lib:2.2.3" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
